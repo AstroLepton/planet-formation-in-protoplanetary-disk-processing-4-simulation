@@ -4,7 +4,7 @@ A sophisticated Processing-based simulation that models the complex physics of p
 
 ## Overview
 
-This simulation recreates the fascinating process of planet formation, starting from microscopic dust particles and evolving into a complete planetary system. It incorporates realistic physics including gravitational interactions, gas dynamics, magnetic fields, and complex collision outcomes.
+This simulation recreates the  process of planet formation, starting from microscopic dust particles and evolving into a complete planetary system. It incorporates realistic physics including gravitational interactions, gas dynamics, magnetic fields, and complex collision outcomes.
 
 ## Physics Engine
 
@@ -196,6 +196,3 @@ Potential improvements could include:
 - **Multi-threading** for larger particle counts
 - **Export capabilities** for data analysis
 
----
-
-*This simulation represents a sophisticated model of planet formation, combining multiple physical processes into an interactive, educational experience that demonstrates the complex beauty of planetary system evolution.*
