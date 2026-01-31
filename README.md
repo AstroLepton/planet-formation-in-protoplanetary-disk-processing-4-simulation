@@ -1,3 +1,6 @@
+
+Disclaimer it doesnt work properly lol*
+
 # Enhanced Planet Accretion Simulation
 
 A sophisticated Processing-based simulation that models the complex physics of planet formation in protoplanetary disks, from dust coagulation to full planetary systems.
