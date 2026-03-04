@@ -1,5 +1,4 @@
 
-Disclaimer it doesnt work properly lol*
 
 # Enhanced Planet Accretion Simulation
 
